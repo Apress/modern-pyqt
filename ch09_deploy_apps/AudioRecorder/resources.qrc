@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>resources/images/mic_disabled.png</file>
+    <file>resources/images/mic_hover.png</file>
+    <file>resources/images/mic_icon.png</file>
+    <file>resources/images/mic_pressed.png</file>
+    <file>resources/images/mic.png</file>
+    <file>resources/images/stop_hover.png</file>
+    <file>resources/images/stop_pressed.png</file>
+    <file>resources/images/stop.png</file>
+    <file>resources/icons/mic_icon.ico</file>
+    <file>resources/icons/mic_icon.icns</file>
+</qresource>
+</RCC>
